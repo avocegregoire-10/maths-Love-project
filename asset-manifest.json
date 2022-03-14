@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/maths-Love-project/static/css/main.e6c13ad2.css",
+    "main.js": "/maths-Love-project/static/js/main.a29ea1a4.js",
+    "static/media/form-image.png": "/maths-Love-project/static/media/form-image.441357511933e1d1a137.png",
+    "index.html": "/maths-Love-project/index.html",
+    "static/media/google-icon.svg": "/maths-Love-project/static/media/google-icon.352d21df45fa4ea3887b1f8a155e5e3a.svg",
+    "main.e6c13ad2.css.map": "/maths-Love-project/static/css/main.e6c13ad2.css.map",
+    "main.a29ea1a4.js.map": "/maths-Love-project/static/js/main.a29ea1a4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.a29ea1a4.js"
+  ]
+}
